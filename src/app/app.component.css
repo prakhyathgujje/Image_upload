@@ -1,0 +1,17 @@
+div.content{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+div.file_upload{
+    /* display: flex; */
+    margin: 5px;
+    padding: 5px;
+    border:1px solid grey;
+}
+div.img{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid grey;
+}
